@@ -1,0 +1,5 @@
+versionamento_semantico.txt
+.vscode
+.history
+*.class
+*.jar
